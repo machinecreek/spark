@@ -13,7 +13,7 @@ The following are prerequisite installations on the development machine.
 
 ### For running on the command line using spark-submit
 * Maven: 3.3.9 is used here. Earlier versions are possible but not tested.
-* Spark 2.1.1
+* Spark 2.1.1+
 * Scala 2.11.7
 * Hadoop/Yarn 2.7.1
 
