@@ -7,10 +7,17 @@ This repository contains multiple examples of Spark concepts. Each is posted wit
 The following are prerequisite installations on the development machine.
 
 ### For development, compiling and running in IntelliJ
-* IntelliJ was used. Other IDEs are possible but not tested.
-* Maven: 3.3.9 was used. Earlier versions are possible but not tested.
-* Scala IntelliJ Plugin: 3.0.6
+* Although intelliJ is used in all tutorials; other IDEs are possible but not tested.
+* Maven: 3.3.9 is used here. Earlier versions are possible but not tested.
+* Scala IntelliJ Plugin 3.0.6 is used here.
 
 ### For running on the command line using spark-submit
+* Maven: 3.3.9 is used here. Earlier versions are possible but not tested.
+* Spark 2.1.1
+* Scala 2.11.7
+* Hadoop/Yarn 2.7.1
+
+
+
 
 
